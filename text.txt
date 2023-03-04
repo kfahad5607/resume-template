@@ -1,0 +1,15 @@
+Write the work experience for a full-stack developer who has worked extensively in all three departments such as frontend, backend and devops. For reference, here are the things I have done in the span of 1.5 years in my current company while building an Authoring tool called Zelto Authoring(Here is the link https://zeltoauthoring.com).
+
+- Built various user facing components such as assets library, settings page
+- Designed and created the assets library feature from frontend to backend where users can upload all the assets they need to create a course.
+- Implemented the cropping image functionality in this assets library.
+- Designed and implemented the backend of how these assets stored such that single asset is reused resulting in less storage consumption on the cloud.
+- implemented the authentication system of the product
+- Designed and implemented the backend system by creating the schema and relationship of database tables such as course, folders, payment, 
+- Designed and implemented the functionality for selling the service plans to end users from start to finish by creating the UI where plans are listed, how the payment history information is stored, how the relationship between user and payment is maintained, integrated the Stripe payment gateway for processing the payment.
+- Designed and implemented the course review system in the product where users can provide feedback about course. Created this functionality from frontend to backend single-handedly. Designed the backend for storing the feedback and its replies.
+- Designed and implemented the animation timeline functionality to make it easy for users visualize and add animation to their course components.
+- Designed and implemented the complete architecture of our product in the cloud using various AWS services such as AWS EC2, AWS RDS, AWS S3, AWS lambda.
+- Designed and implemented the CI/CD pipeline for automatic code deployment using Github actions which resulted in saving significant deployment time.
+- Implemented the single sign on functionality by researching and comparing the various single sign on protocols such as SAMl, OIDC, CAS. Implemented the single sign on functionality by choosing the OIDC which made it easier for the users to sign in only once.
+- optimized the frontend and backend code for better user experience
