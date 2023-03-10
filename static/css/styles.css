@@ -96,7 +96,7 @@ body {
   line-height: 1;
 }
 .resume__info-head {
-  margin-bottom: 7px;
+  margin-bottom: 12px;
 }
 .resume__info-name {
   font-size: 37px;
@@ -108,14 +108,15 @@ body {
   font-weight: 800;
 }
 .resume__avatar {
-  width: 130px;
-  height: 130px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   overflow: hidden;
   margin-left: auto;
   background-image: url(/static/images/avatar.png);
   background-size: cover;
   background-repeat: no-repeat;
+  margin-top: -15px;
 }
 .resume__avatar img {
   display: block;
@@ -159,6 +160,25 @@ body {
 .resume__text-5 {
   font-size: 11px;
   color: #606060;
+}
+
+.social-link {
+  display: flex;
+  align-items: center;
+  padding: 0 5px;
+  font-size: 14px;
+}
+.social-link__icon {
+  font-size: 15px;
+  margin-right: 15px;
+}
+.social-link a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.personal-info .resume__section-wrap {
+  margin-bottom: 12px;
 }
 
 .icon-text-box {
@@ -338,3 +358,5 @@ body {
 .mb-8 {
   margin-bottom: 15px;
 }
+
+/*# sourceMappingURL=styles.css.map */
